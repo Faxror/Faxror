@@ -4,13 +4,11 @@
 
 ### Reach out to me
 
-
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left" />][instagram]
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left" />][twitter]
 
 <br />
-<br />
 
-[instagram]: https://www.instagram.com/deniz_pekova/
+[twitter]: https://twitter.com/FaxrorS
 <br />
 ### Tech I Use
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25" align="left">
@@ -20,7 +18,7 @@
 
 <br />
 
-<details>
-<summary> Most Used Languages </summary>
+<br /><details>
+<summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="left">
 </details>
