@@ -1,15 +1,16 @@
 ### Hi there 👋, I'm Deniz.
 
-## Developer
-| www.faxror.com
+## Back-End  Developer | www.faxror.com
 
 ### Reach out to me
 
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left" />][twitter]
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v8/icons/İnstagram.svg" align="left" />][İnstagram]
 
 <br />
 
 [twitter]: https://twitter.com/FaxrorS
+[İnstagram]: [https://twitter.com/FaxrorS](https://www.instagram.com/deniz_pekova/)
 <br />
 ### Tech I Use
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25" align="left">
