@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Deniz.
 
-## Front-end Developer | www.faxror.com
+## Developer
+| www.faxror.com
 
 ### Reach out to me
 
