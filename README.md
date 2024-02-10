@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Deniz.
 
-## Back-End  Developer | www.pekova.com.tr
+## Back-end  Developer | www.pekova.com.tr
 
 ### Reach out to me
 
