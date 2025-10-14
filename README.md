@@ -1,26 +1,57 @@
-### Hi there 👋, I'm Deniz.
+### 👋 Hey there, I'm **Deniz**
 
-##  .Net Developer | www.pekova.com.tr
+💻 **.NET Developer**  
+🌐 [www.pekova.com.tr](https://www.pekova.com.tr)  
+📍 Based in Türkiye | Passionate about backend architecture, clean code & performance.
 
-### Reach out to me
+---
 
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align="left" />][twitter]
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left" />][instagram]
+### 🔗 Connect with Me
 
-<br />
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/FaxrorS)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/deniz_pekova/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Website](https://img.shields.io/badge/Website-pekova.com.tr-0A0A0A?logo=vercel&logoColor=white)](https://www.pekova.com.tr)
 
-[twitter]: https://twitter.com/FaxrorS
-[instagram]: https://www.instagram.com/deniz_pekova/
-<br />
-### Tech I Use
-<img src="https://camo.githubusercontent.com/158219902be2f7f4a4e08983a16aa541f4daf4ddbdd979505799137c08fa058d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" width="25" height="25" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="25" height="25" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/a92591a79a4ce31660058d7ccc66c79266931f61/topics/dotnet/dotnet.png" width="25" height="25" align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" aling="left" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="25" height="25" align="left">
+---
 
+### ⚙️ Tech Stack & Tools
 
-<br />
+<img align="left" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/>
+<img align="left" alt="ASP.NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+<img align="left" alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-<br />
+<br/>
+<br/>
+
+---
+
+### 🧠 About Me
+- 🎯 Currently working on **ASP.NET Core MVC** projects  
+- 🧩 Love designing **clean architecture** and **modular systems**  
+- 🚀 Exploring **Cloud**, **Microservices**, and **C# Performance Tuning**  
+- 🧰 Tools I can’t live without: Visual Studio, SQL Profiler, Postman  
+
+---
+
+### 📊 GitHub Stats
+
+![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=faxror&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faxror&layout=compact&theme=radical)
+
+---
+
+### ✨ Fun Facts
+- 🎵 I love producing minimal ambient tracks while coding.  
+- 🕹️ Sometimes I build small tools and anti-cheat systems for **MTA:SA servers**.  
+- ☕ Coffee-powered developer since 2016.
+
+---
+
+🧩 *“Clean code is not written by following rules — it’s written by following passion.”*
