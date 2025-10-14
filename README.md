@@ -32,7 +32,6 @@
 
 ### 📚 About Me
 
-- 🎓 Currently studying **Information Security Technologies**  
 - 🧠 Learning **Backend Development** through various online courses and projects  
 - 🚀 Building applications with **ASP.NET Core**, **C#**, and **MySQL**  
 - 🧰 Favorite tools: **Visual Studio**, **SQL Profiler**, **Postman**
