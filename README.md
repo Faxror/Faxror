@@ -42,11 +42,14 @@
 ### 🎓 Currently Learning
 
 📘 **Courses I'm taking right now:**
-- [x] **Udemy — C# Advanced Topics: Beyond the Basics**  
-- [x] **Udemy — ASP.NET Core Web API Development**  
-- [x] **LinkedIn Learning — Clean Architecture and SOLID Principles in .NET**  
-- [ ] **Pluralsight — Microservices Fundamentals**  
-- [ ] **Udemy — Entity Framework Core: Complete Guide**
+- [x] **Udemy — CSharp ile Adım Adım Katmanlı Mimari**  
+- [x] **Udemy — Sıfırdan İleri Seviye C# Programlama**  
+- [x] **YouTube — 100 Gün Sıfırdan C# Dersleri**  
+- [x] **YouTube — İnternetin temeli**  
+- [x] **YouTube — Asp.net Web API**  
+- [ ] **Udemy — Mikroservis ile E-Ticaret Sitesi**  
+
+
 
 ---
 
