@@ -1,14 +1,8 @@
-<!-- Profile Header -->
 <h1 align="center">👋 Hi there, I'm <strong>Deniz Pekova</strong></h1>
 <h3 align="center">💻 .NET Developer | Backend Enthusiast </h3>
 
 <p align="center">
   🌐 <a href="https://www.pekova.com.tr" target="_blank">www.pekova.com.tr</a>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00C2FF&center=true&vCenter=true&width=550&lines=.NET+Developer;Backend+Developer+in+Progress;Information+Security+Student;Lifelong+Learner+%F0%9F%93%9A;Clean+Code+and+Performance+Lover+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
