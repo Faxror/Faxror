@@ -60,21 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faxror&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
----
-
-### 🎯 Featured Projects
-
-- 🗂️ **Todo-Advanced** — Advanced to-do app built with C#  
-- ⏰ **DueProject** — Time and deadline management system  
-- 🌐 **pekova.com.tr** — My personal website & portfolio  
-- 🛒 **E-Commerce** — Full-stack online shopping app  
-
----
-
-### ✨ Fun Facts
-
-- 🎧 I enjoy listening to minimal ambient music while coding  
-- ☕ Code + Coffee = Happiness  
 
 ---
 
